@@ -3,7 +3,7 @@
 
 * Our Smart Waste Management System integrates automated segregation and real-time monitoring to optimize waste processing. It employs sensor-based classification, IoT-enabled monitoring, and AI-driven decision-making to streamline waste collection, reduce human intervention, and ensure proper disposal of recyclable and non-recyclable materials.
 
-**Algorithms Explored**
+# **Algorithms Explored**
 
 1. Waste Classification Algorithm – Uses IR sensors to classify biodegradable and non-biodegradable waste.
 
@@ -15,7 +15,7 @@
 
 5. AI-Driven Waste Prediction – Applies machine learning to predict waste accumulation trends and optimize collection schedules.
 
-**Dataset for Smart Waste Management**
+# **Dataset for Smart Waste Management**
 
 1. Waste Classification Dataset – Images of waste (plastic, paper, metal, glass, organic) for AI-based identification.
 
@@ -25,7 +25,7 @@
 
 4. Waste Prediction Dataset – Historical waste levels and environmental factors for ML-based forecasting.
 
-**Hardware Used**
+# **Hardware Used**
 
 1. Arduino Uno – Microcontroller for processing sensor data.
 2. IR Sensors – Detects different waste types.
